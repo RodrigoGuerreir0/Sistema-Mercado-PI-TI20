@@ -1,8 +1,8 @@
 # Sistema-Mercado-PI-TI20
 Sistema-Mercado-PI-TI20
 
-![C#]([https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg))
-![PHP]([[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg))
+<img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Paulo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 
 ## Projeto
 >Uma aplicação com python que transmitira e recebera mensagens criptografadas, onde apenas os usuários com as chaves terão acesso a mensagem
